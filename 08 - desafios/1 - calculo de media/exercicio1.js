@@ -24,3 +24,4 @@ if (media >= 0 && media < 5) {
     print('Número inválido')
 }
 
+

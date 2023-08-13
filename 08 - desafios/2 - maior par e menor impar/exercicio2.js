@@ -35,3 +35,4 @@ for (let i = 0; i < n; i++) {
 
 print('Maior número par: ' + maiorNumeroPar);
 print('Menor número impar: ' + menorNumeroImpar);
+
